@@ -4,19 +4,19 @@
     "title": "Prayer, welcome, and service in a Catholic parish community.",
     "welcome": "This homepage is a placeholder version of the live parish design. Replace the copy, photos, and parish details with your own content in the CMS.",
     "slides": [
-      {
-        "image": "/uploads/hero-interior.svg",
-        "alt": "Placeholder church interior image."
-      },
-      {
-        "image": "/uploads/hero-mass.svg",
-        "alt": "Placeholder liturgy image."
-      },
-      {
-        "image": "/uploads/hero-community.svg",
-        "alt": "Placeholder community image."
-      }
-    ],
+  {
+    "image": "/uploads/SJW1%20(1).jpg",
+    "alt": "Church interior."
+  },
+  {
+    "image": "/uploads/SJW1%20(2).jpg",
+    "alt": "Mass or liturgy."
+  },
+  {
+    "image": "/uploads/SJW1%20(3).jpg",
+    "alt": "Parish community."
+  }
+],
     "buttons": [
       {
         "label": "Mass Times",
