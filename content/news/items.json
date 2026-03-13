@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "Weekly highlights placeholder",
+      "meta": "Parish News",
+      "summary": "Replace this item with a short summary of the week ahead, a feast day, or an important parish notice.",
+      "linkUrl": "news-reflections.html#weekly-highlights",
+      "linkLabel": "Open news page",
+      "featured": true
+    },
+    {
+      "title": "Newsletter upload example",
+      "meta": "Newsletter",
+      "summary": "This placeholder reminds editors that the latest PDF newsletter is shown automatically on the homepage and archive page.",
+      "linkUrl": "newsletter-archive.html",
+      "linkLabel": "Open newsletter archive",
+      "featured": true
+    },
+    {
+      "title": "Safeguarding reminder placeholder",
+      "meta": "Safeguarding",
+      "summary": "Use featured news items for urgent notices, training dates, or safeguarding reminders.",
+      "linkUrl": "safeguarding.html",
+      "linkLabel": "Open safeguarding page",
+      "featured": false
+    }
+  ]
+}

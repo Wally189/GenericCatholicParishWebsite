@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "eyebrow": "Welcome",
+    "title": "Prayer, welcome, and service in a Catholic parish community.",
+    "welcome": "This homepage is a placeholder version of the live parish design. Replace the copy, photos, and parish details with your own content in the CMS.",
+    "slides": [
+      {
+        "image": "/uploads/hero-interior.svg",
+        "alt": "Placeholder church interior image."
+      },
+      {
+        "image": "/uploads/hero-mass.svg",
+        "alt": "Placeholder liturgy image."
+      },
+      {
+        "image": "/uploads/hero-community.svg",
+        "alt": "Placeholder community image."
+      }
+    ],
+    "buttons": [
+      {
+        "label": "Mass Times",
+        "href": "mass-services.html",
+        "style": "button-primary"
+      },
+      {
+        "label": "Livestream",
+        "href": "mass-services.html#livestream",
+        "style": "button-secondary"
+      },
+      {
+        "label": "Contact",
+        "href": "visit-contact.html#contact-details-page",
+        "style": "button-secondary"
+      }
+    ]
+  },
+  "quickMassIntro": {
+    "eyebrow": "Mass & Services",
+    "title": "A clear place for worship information",
+    "copy": "Use the panel below for the most frequently needed Mass, confession, and livestream details."
+  },
+  "mission": {
+    "eyebrow": "Mission",
+    "title": "A short statement of prayer, welcome, and service",
+    "paragraphs": [
+      "Use this section for the parish mission, spiritual character, and community priorities.",
+      "Replace the placeholder text with the real story of your parish, its patron, and the ministries that shape parish life."
+    ],
+    "bullets": [
+      "A brief parish welcome for visitors and regular worshippers",
+      "One or two lines about liturgy, prayer, and sacramental life",
+      "A short description of charity, outreach, and community service"
+    ],
+    "image": "/uploads/saint-placeholder.svg",
+    "imageAlt": "Placeholder image for patron saint artwork.",
+    "caption": "Replace this placeholder image with artwork, a statue, or a parish photograph."
+  },
+  "parishLife": {
+    "eyebrow": "Parish Life",
+    "title": "Show worship, community, and outreach at a glance",
+    "copy": "These cards can point visitors towards groups, practical help, and parish activities.",
+    "cards": [
+      {
+        "type": "image",
+        "meta": "Parish groups",
+        "title": "Formation, fellowship, and service",
+        "body": "Use this card to introduce children's liturgy, youth, catechesis, choirs, social gatherings, and volunteer groups.",
+        "image": "/uploads/parish-life.svg",
+        "imageAlt": "Placeholder image for parish life."
+      },
+      {
+        "meta": "Foodbank & outreach",
+        "title": "Local works of charity",
+        "body": "Replace this text with the real ministries, support services, and outreach projects connected with the parish.",
+        "image": "/uploads/outreach-partner.svg",
+        "imageAlt": "Placeholder image for an outreach partner.",
+        "linkLabel": "Parish Life",
+        "linkUrl": "parish-life.html#foodbank"
+      },
+      {
+        "meta": "Gallery",
+        "title": "Moments from parish life",
+        "body": "Add albums in the CMS to display sacramental celebrations, feast days, and community events.",
+        "linkLabel": "Open gallery",
+        "linkUrl": "gallery.html"
+      }
+    ]
+  },
+  "contactHighlight": {
+    "eyebrow": "Visit / Contact",
+    "title": "Come to church, contact the office, or support the mission",
+    "copy": "This section highlights the parish address, office details, clergy contact, and safeguarding routes."
+  }
+}

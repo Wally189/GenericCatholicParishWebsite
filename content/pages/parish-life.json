@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "image": "/uploads/parish-life.svg",
+    "eyebrow": "Parish Life",
+    "title": "Groups, outreach, and everyday parish community",
+    "lede": "Use this page to show parish groups, practical support, outreach work, and community activities."
+  },
+  "intro": {
+    "eyebrow": "Community life",
+    "title": "A home for groups and ministries",
+    "body": "Replace the placeholder copy here with the real picture of parish life, its volunteers, and its works of mercy.",
+    "asideMeta": "Outreach partner",
+    "asideBody": "This sidebar can introduce a local charity, support project, or parish outreach partner with a short summary and contact link."
+  },
+  "cards": [
+    {
+      "id": "parish-groups",
+      "meta": "Parish groups",
+      "title": "Groups and ministries",
+      "paragraphs": [
+        "Use this section for catechists, choirs, altar servers, readers, youth groups, prayer groups, social events, and volunteer teams."
+      ],
+      "items": [
+        "Children and young people",
+        "Adult formation and RCIA",
+        "Liturgical ministries",
+        "Social and service groups"
+      ]
+    },
+    {
+      "id": "foodbank",
+      "meta": "Foodbank",
+      "title": "Practical help and local care",
+      "paragraphs": [
+        "Use this area for a parish foodbank, practical help fund, warm space, or community pantry."
+      ],
+      "items": [
+        "Opening times",
+        "Volunteer contact details",
+        "Referral information if needed"
+      ],
+      "links": [
+        {
+          "label": "Placeholder document",
+          "url": "uploads/documents/placeholder-document.pdf"
+        }
+      ]
+    },
+    {
+      "id": "refugee-borderlands",
+      "meta": "Outreach",
+      "title": "Refugee and community support",
+      "paragraphs": [
+        "Replace this card with the parish's real outreach projects, partner organisations, or community support work."
+      ],
+      "items": [
+        "Refugee or asylum support",
+        "Neighbourhood partnerships",
+        "Pastoral outreach and advocacy"
+      ],
+      "links": [
+        {
+          "label": "Example outreach partner link",
+          "url": "https://example.org/outreach-partner"
+        }
+      ]
+    },
+    {
+      "id": "parish-activities",
+      "meta": "Activities",
+      "title": "Events and shared life",
+      "paragraphs": [
+        "Use this space for parish lunches, feast-day celebrations, fundraising, pilgrimages, and school partnerships."
+      ]
+    },
+    {
+      "id": "gallery",
+      "meta": "Gallery",
+      "title": "Photo albums",
+      "paragraphs": [
+        "The gallery page can hold multiple albums, each with its own rotating set of images and captions."
+      ],
+      "links": [
+        {
+          "label": "Open gallery",
+          "url": "gallery.html"
+        }
+      ]
+    }
+  ]
+}

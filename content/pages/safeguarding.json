@@ -1,0 +1,13 @@
+{
+  "hero": {
+    "image": "/uploads/hero-interior.svg",
+    "eyebrow": "Safeguarding",
+    "title": "Safeguarding contacts and reporting routes",
+    "lede": "Use this page for parish safeguarding contacts, diocesan safeguarding details, and any public safeguarding downloads."
+  },
+  "intro": {
+    "eyebrow": "Safeguarding first",
+    "title": "Clear contact routes matter",
+    "body": "Keep the names, emails, and phone numbers on this page up to date. This is one of the most important pages on the site."
+  }
+}

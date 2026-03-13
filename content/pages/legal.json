@@ -1,0 +1,62 @@
+{
+  "privacy": {
+    "eyebrow": "Privacy Policy",
+    "title": "Privacy Policy",
+    "lede": "Starter privacy text for a parish website. Review and replace this with diocesan-approved wording before launch.",
+    "reviewNotice": "This text is a placeholder only. Insert the correct legal parish entity, data-controller wording, and approved diocesan or charity policy before the site goes live.",
+    "sections": [
+      {
+        "title": "Who we are",
+        "body": "Replace this section with the full legal name of the parish, its postal address, and the organisation responsible for the website."
+      },
+      {
+        "title": "What information we collect",
+        "body": "Explain what information is collected through any forms, email links, mailing lists, or safeguarding routes, and why it is needed."
+      },
+      {
+        "title": "How information is used",
+        "body": "Describe how parish or diocesan staff will use personal information, how long it is kept, and who may have access to it."
+      }
+    ]
+  },
+  "cookies": {
+    "eyebrow": "Cookie Policy",
+    "title": "Cookie Policy",
+    "lede": "Starter cookie text for a parish website. Review and replace this with the correct wording before launch.",
+    "reviewNotice": "If analytics, embedded media, or cookie tools are added, this page must be updated and checked before launch.",
+    "sections": [
+      {
+        "title": "Essential cookies",
+        "body": "Explain whether the website uses any essential cookies for navigation, security, or content management."
+      },
+      {
+        "title": "Analytics or embedded content",
+        "body": "List any analytics tools, embedded livestreams, maps, or third-party media that may set cookies in a visitor's browser."
+      },
+      {
+        "title": "Managing cookies",
+        "body": "Explain how visitors can change their browser settings or consent choices if cookies are in use."
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Terms of Use",
+    "title": "Terms of Use",
+    "lede": "Starter terms of use for a parish website. Review and replace this text with the correct legal wording before launch.",
+    "reviewNotice": "These terms are placeholders only and should be reviewed with the parish, diocese, or legal adviser before launch.",
+    "sections": [
+      {
+        "title": "Using the website",
+        "body": "Explain that the website is intended to provide parish information and that content is offered in good faith."
+      },
+      {
+        "title": "External links",
+        "body": "Explain that the parish is not responsible for third-party websites linked from this website unless stated otherwise."
+      },
+      {
+        "title": "Accuracy and changes",
+        "body": "Explain that Mass times, office hours, and public information may change and should be checked with the parish if needed."
+      }
+    ]
+  }
+}

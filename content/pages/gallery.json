@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "image": "/uploads/parish-life.svg",
+    "eyebrow": "Gallery",
+    "title": "Parish photo albums",
+    "lede": "Add albums in the CMS and each album will display as a rotating image set on this page."
+  },
+  "intro": {
+    "eyebrow": "Photo archive",
+    "title": "A simple album layout for parish life",
+    "body": "This placeholder gallery shows the structure only. Replace the example albums with real parish photographs.",
+    "asideMeta": "CMS-ready albums",
+    "asideTitle": "What can be added here",
+    "asideItems": [
+      "Sacramental celebrations",
+      "Patronal feasts and parish events",
+      "School visits and community outreach",
+      "Seasonal liturgies and parish gatherings"
+    ]
+  },
+  "albums": [
+    {
+      "id": "welcome-day",
+      "meta": "Album example",
+      "title": "Welcome Day",
+      "body": "Use one album for each event or celebration. The priest or administrator can add more albums in the CMS.",
+      "note": "Replace this album with real parish photographs.",
+      "images": [
+        {
+          "image": "/uploads/gallery/welcome-day/photo-1.svg",
+          "imageAlt": "Placeholder welcome day photograph one.",
+          "caption": "Placeholder image one"
+        },
+        {
+          "image": "/uploads/gallery/welcome-day/photo-2.svg",
+          "imageAlt": "Placeholder welcome day photograph two.",
+          "caption": "Placeholder image two"
+        },
+        {
+          "image": "/uploads/gallery/welcome-day/photo-3.svg",
+          "imageAlt": "Placeholder welcome day photograph three.",
+          "caption": "Placeholder image three"
+        }
+      ]
+    },
+    {
+      "id": "parish-life-album",
+      "meta": "Album example",
+      "title": "Parish Life",
+      "body": "This second example album shows how a separate event or ministry can have its own rotating image set.",
+      "note": "Add captions and alt text whenever new images are uploaded.",
+      "images": [
+        {
+          "image": "/uploads/gallery/parish-life/photo-1.svg",
+          "imageAlt": "Placeholder parish life photograph one.",
+          "caption": "Placeholder image one"
+        },
+        {
+          "image": "/uploads/gallery/parish-life/photo-2.svg",
+          "imageAlt": "Placeholder parish life photograph two.",
+          "caption": "Placeholder image two"
+        },
+        {
+          "image": "/uploads/gallery/parish-life/photo-3.svg",
+          "imageAlt": "Placeholder parish life photograph three.",
+          "caption": "Placeholder image three"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "meta": "Editing",
+      "title": "Add a new album in the CMS",
+      "paragraphs": [
+        "The gallery collection lets the parish create a new album, add multiple photographs, and update captions without touching the layout."
+      ]
+    },
+    {
+      "meta": "Image guidance",
+      "title": "Use good captions and alt text",
+      "paragraphs": [
+        "Add a short caption for each photograph and a clear alt text description so the gallery stays accessible and easy to manage."
+      ]
+    }
+  ]
+}

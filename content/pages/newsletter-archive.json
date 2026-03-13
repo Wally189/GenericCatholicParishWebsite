@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "image": "/uploads/hero-interior.svg",
+    "eyebrow": "Newsletter Archive",
+    "title": "Newsletters and parish documents",
+    "lede": "This archive is designed for weekly newsletters, bulletins, reports, and parish documents."
+  },
+  "intro": {
+    "eyebrow": "Archive",
+    "title": "A simple document library",
+    "body": "The newest newsletter appears first, followed by the full archive and any parish documents.",
+    "asideMeta": "Latest upload",
+    "asideTitle": "No newsletter uploaded yet",
+    "asideBody": "Upload a newsletter PDF in the CMS and it will appear here automatically."
+  },
+  "cards": [
+    {
+      "id": "latest-newsletter",
+      "meta": "Latest upload",
+      "title": "Latest Newsletter",
+      "paragraphs": [
+        "The newest uploaded newsletter is highlighted here automatically."
+      ]
+    },
+    {
+      "id": "newsletter-archive",
+      "meta": "Archive",
+      "title": "Newsletter Archive",
+      "paragraphs": [
+        "Use this list for weekly bulletins, printed newsletters, or school-parish notices."
+      ]
+    },
+    {
+      "id": "parish-documents",
+      "meta": "Documents",
+      "title": "Parish Documents",
+      "paragraphs": [
+        "Upload policies, synod notes, safeguarding resources, and other public documents here."
+      ]
+    }
+  ]
+}

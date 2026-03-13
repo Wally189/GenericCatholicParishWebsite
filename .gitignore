@@ -1,0 +1,11 @@
+# Local development helpers
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Local Decap support process
+.netlify/
+
+# Editor noise
+.vscode/
+

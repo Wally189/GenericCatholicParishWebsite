@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "image": "/uploads/hero-interior.svg",
+    "eyebrow": "News & Reflections",
+    "title": "Updates, prayer resources, and parish documents",
+    "lede": "Use this page for weekly highlights, parish news, newsletters, prayers, reflections, and diocesan or Vatican links."
+  },
+  "intro": {
+    "eyebrow": "Latest updates",
+    "title": "News and reflections in one place",
+    "body": "The first cards on this page are populated automatically from the editable news and newsletter collections.",
+    "asideMeta": "Latest newsletter"
+  },
+  "cards": [
+    {
+      "id": "weekly-highlights",
+      "meta": "News",
+      "title": "Weekly Highlights",
+      "paragraphs": [
+        "Featured news items added in the CMS will appear here automatically."
+      ]
+    },
+    {
+      "id": "parish-newsletters",
+      "meta": "Newsletter archive",
+      "title": "Parish Newsletters",
+      "paragraphs": [
+        "Upload a PDF newsletter in the CMS and it will appear here and on the archive page automatically."
+      ]
+    },
+    {
+      "id": "bidding-prayers",
+      "meta": "Prayer",
+      "title": "Bidding Prayers",
+      "paragraphs": [
+        "Use this area for short prayer resources, intercessions, or seasonal devotional material."
+      ],
+      "links": [
+        {
+          "label": "Placeholder prayer resource PDF",
+          "url": "uploads/documents/placeholder-document.pdf"
+        }
+      ]
+    },
+    {
+      "id": "reflections",
+      "meta": "Reflection",
+      "title": "Reflections",
+      "paragraphs": [
+        "Add links here to parish reflections, homily notes, school reflections, or seasonal meditations."
+      ]
+    },
+    {
+      "id": "vatican-news",
+      "meta": "Church news",
+      "title": "Vatican News / Pope",
+      "paragraphs": [
+        "This section can link to official Catholic news sources, diocesan updates, or papal messages."
+      ],
+      "links": [
+        {
+          "label": "Vatican News",
+          "url": "https://www.vaticannews.va/en.html"
+        },
+        {
+          "label": "Example diocesan website",
+          "url": "https://example.org/diocese"
+        }
+      ]
+    }
+  ]
+}

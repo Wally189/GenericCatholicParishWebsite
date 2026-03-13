@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "image": "/uploads/hero-community.svg",
+    "eyebrow": "Donations",
+    "title": "Support the parish and its mission",
+    "lede": "A dedicated page for the main parish giving link and any additional support opportunities."
+  },
+  "intro": {
+    "eyebrow": "Giving",
+    "title": "A simple place for parish support",
+    "body": "The main parish giving link should be prominent, with any secondary support links clearly separated below.",
+    "asideMeta": "Primary giving link",
+    "asideTitle": "Parish giving",
+    "asideBody": "Replace this placeholder giving link with the real online giving page or donations platform."
+  },
+  "cards": [
+    {
+      "id": "parish-giving",
+      "meta": "Primary giving",
+      "title": "Parish giving link",
+      "paragraphs": [
+        "Use this card for the main parish giving page or online donations platform."
+      ],
+      "note": "Add the real parish giving link before launch."
+    },
+    {
+      "id": "support-parish-outreach",
+      "meta": "Other support",
+      "title": "Support parish outreach",
+      "paragraphs": [
+        "This section can list foodbank links, special appeals, or partner organisations connected with the parish mission."
+      ]
+    },
+    {
+      "id": "contact-giving",
+      "meta": "Need help?",
+      "title": "Contact the parish office",
+      "paragraphs": [
+        "Use this area for the office contact details if someone needs help with a donation or has a stewardship question."
+      ]
+    }
+  ]
+}

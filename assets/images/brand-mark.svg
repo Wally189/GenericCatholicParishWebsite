@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Sample Catholic Parish template mark</title>
+  <desc id="desc">A generic star and arch motif for a parish website template.</desc>
+  <rect width="120" height="120" rx="28" fill="#1F3A5F"/>
+  <path d="M60 18l6 21 22 2-17 13 6 21-17-12-17 12 6-21-17-13 22-2z" fill="#C8A45C"/>
+  <path d="M34 90c10-13 25-20 26-20s16 7 26 20" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+</svg>

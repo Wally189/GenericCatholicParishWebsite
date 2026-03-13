@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "image": "/uploads/hero-mass.svg",
+    "eyebrow": "Mass & Services",
+    "title": "Liturgy, sacraments, and parish worship",
+    "lede": "Keep Sunday Mass, weekday liturgy, confession, and livestream information together in one clear place."
+  },
+  "intro": {
+    "eyebrow": "Weekly worship",
+    "title": "A page that can be updated quickly",
+    "body": "Use this page for the parish timetable and any worship information that visitors need most often.",
+    "asideMeta": "Most common updates",
+    "asideTitle": "Useful items to review",
+    "asideItems": [
+      "Sunday Mass times",
+      "Weekday liturgy and Adoration",
+      "Confession or reconciliation times",
+      "Livestream link and feast day changes"
+    ]
+  }
+}

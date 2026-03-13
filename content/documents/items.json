@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "Placeholder Parish Document",
+      "date": "2026-03-01",
+      "description": "Use this collection for synod papers, public reports, prayer resources, or approved PDFs.",
+      "file": "uploads/documents/placeholder-document.pdf"
+    },
+    {
+      "title": "Placeholder Safeguarding Resource",
+      "date": "2026-02-20",
+      "description": "Replace this with a diocesan safeguarding document or an approved parish resource.",
+      "file": "uploads/documents/placeholder-document.pdf"
+    }
+  ]
+}

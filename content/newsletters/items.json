@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "Placeholder Newsletter",
+      "date": "2026-03-13",
+      "description": "Replace this file with the current weekly parish newsletter.",
+      "file": "uploads/newsletters/placeholder-newsletter.pdf"
+    },
+    {
+      "title": "Older Newsletter Example",
+      "date": "2026-03-06",
+      "description": "An older placeholder item to show how the archive list appears.",
+      "file": "uploads/newsletters/placeholder-newsletter.pdf"
+    }
+  ]
+}

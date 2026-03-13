@@ -1,0 +1,235 @@
+{
+  "nextMass": {
+    "eyebrow": "Next Mass",
+    "title": "Sunday Parish Mass",
+    "meta": "Sunday, 10:30am - Church and livestream",
+    "body": "Use this area for the next major liturgy, feast, school Mass, or seasonal service.",
+    "note": "Replace the schedule each week or whenever the parish timetable changes."
+  },
+  "massTimes": {
+    "quickCards": [
+      {
+        "title": "Sunday",
+        "items": [
+          "9:00am Early Mass",
+          "10:30am Parish Mass with livestream",
+          "6:00pm Evening Mass"
+        ]
+      },
+      {
+        "title": "Weekdays",
+        "items": [
+          "Tuesday 9:30am Mass",
+          "Thursday 12:00 noon Mass",
+          "Friday 9:30am Mass"
+        ]
+      },
+      {
+        "title": "Confession",
+        "items": [
+          "Saturday 10:30am-11:00am",
+          "By appointment through the parish office",
+          "Extra seasonal times can be added below"
+        ]
+      },
+      {
+        "title": "Livestream",
+        "items": [
+          "Sunday 10:30am Parish Mass"
+        ],
+        "links": [
+          {
+            "label": "Example livestream link",
+            "url": "https://example.org/livestream"
+          },
+          {
+            "label": "Mass and livestream details on this site",
+            "url": "mass-services.html#livestream"
+          }
+        ]
+      }
+    ],
+    "serviceCards": [
+      {
+        "id": "mass-times",
+        "meta": "Current parish times",
+        "title": "Mass Times",
+        "paragraphs": [
+          "Replace these placeholder times with the current weekly parish schedule.",
+          "This section works well for Sunday Mass, weekday liturgy, and seasonal timetable notes."
+        ],
+        "items": [
+          "Sunday: 9:00am, 10:30am, 6:00pm",
+          "Tuesday: 9:30am",
+          "Thursday: 12:00 noon",
+          "Friday: 9:30am"
+        ],
+        "links": [
+          {
+            "label": "Mass times on this site",
+            "url": "mass-services.html#mass-times"
+          }
+        ]
+      },
+      {
+        "id": "livestream",
+        "meta": "Watch online",
+        "title": "Livestream",
+        "paragraphs": [
+          "Add the parish livestream platform link here so visitors can join Mass from home."
+        ],
+        "links": [
+          {
+            "label": "Example livestream link",
+            "url": "https://example.org/livestream"
+          },
+          {
+            "label": "Visit / Contact",
+            "url": "visit-contact.html#contact-details-page"
+          }
+        ]
+      },
+      {
+        "id": "confession-sacraments",
+        "meta": "Sacramental life",
+        "title": "Confession / Sacraments",
+        "paragraphs": [
+          "Use this card for confession times and the main way to arrange baptisms, weddings, funerals, and anointing."
+        ],
+        "items": [
+          "Confession: Saturday 10:30am-11:00am",
+          "Appointments can be arranged through the parish office",
+          "Sacramental enquiries can be added here"
+        ]
+      },
+      {
+        "id": "special-liturgies",
+        "meta": "Special worship",
+        "title": "Special Liturgies",
+        "paragraphs": [
+          "This is a good place for feast days, school liturgies, devotions, and seasonal worship."
+        ],
+        "items": [
+          "Holy Day Mass times",
+          "Stations of the Cross or Benediction",
+          "School or parish celebrations"
+        ]
+      },
+      {
+        "id": "deaf-community-mass",
+        "meta": "Accessible worship",
+        "title": "Deaf Community Mass",
+        "paragraphs": [
+          "If the parish hosts a signed Mass or another accessible liturgy, update those details here."
+        ],
+        "links": [
+          {
+            "label": "Accessibility information",
+            "url": "mass-services.html#deaf-community-mass"
+          },
+          {
+            "label": "Placeholder service document",
+            "url": "uploads/documents/placeholder-document.pdf"
+          }
+        ]
+      },
+      {
+        "id": "lgbtq-mass",
+        "meta": "Community worship",
+        "title": "Special Community Mass",
+        "paragraphs": [
+          "Use this space for a regular community Mass, chaplaincy gathering, or ministry-specific liturgy."
+        ],
+        "links": [
+          {
+            "label": "Community worship details",
+            "url": "mass-services.html#lgbtq-mass"
+          },
+          {
+            "label": "Placeholder liturgy PDF",
+            "url": "uploads/documents/placeholder-document.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "visitHighlightTitle": "1 Church Square, Sampletown",
+    "visitHighlightMeta": "Church: ST1 1AA - Parking: nearby public parking",
+    "visitHighlightBody": "Office enquiries are welcomed during the hours listed below.",
+    "churchName": "Sample Catholic Parish",
+    "churchAddressLines": [
+      "1 Church Square",
+      "Sampletown",
+      "ST1 1AA"
+    ],
+    "presbyteryAddressLines": [
+      "Presbytery",
+      "1 Church Square",
+      "Sampletown, ST1 1AA"
+    ],
+    "officeAddressLines": [
+      "Parish Office",
+      "1 Church Square",
+      "Sampletown, ST1 1AA"
+    ],
+    "parking": "Nearby public parking",
+    "officePhone": "01234 567890",
+    "officeEmail": "office@exampleparish.org",
+    "officeHoursSummary": "Office enquiries are welcomed Monday to Friday, 10:00am to 1:00pm.",
+    "officeHoursDetailed": [
+      "Monday: 10:00am-1:00pm",
+      "Tuesday: 10:00am-1:00pm",
+      "Wednesday: 10:00am-1:00pm",
+      "Thursday: 10:00am-1:00pm",
+      "Friday: 10:00am-1:00pm"
+    ],
+    "priestName": "Parish Priest",
+    "priestPhone": "01234 567891",
+    "priestEmergency": "07123 456789",
+    "priestEmail": "priest@exampleparish.org",
+    "priestAvailability": "Replace this line with the days and times when the priest is usually available.",
+    "contactPageUrl": "visit-contact.html#contact-details-page",
+    "donationLinks": [
+      {
+        "label": "Parish giving link",
+        "url": "https://example.org/donate"
+      },
+      {
+        "label": "Parish foodbank details",
+        "url": "parish-life.html#foodbank"
+      },
+      {
+        "label": "Outreach partner website",
+        "url": "https://example.org/outreach-partner"
+      }
+    ],
+    "foodbankManager": "Volunteer coordinator",
+    "foodbankPhone": "01234 567892",
+    "borderlandsEmail": "outreach@exampleparish.org"
+  },
+  "safeguarding": {
+    "parishRepresentatives": [
+      {
+        "name": "Safeguarding representative one",
+        "role": "Parish Safeguarding Representative",
+        "email": "safeguarding@exampleparish.org"
+      },
+      {
+        "name": "Safeguarding representative two",
+        "role": "Parish Safeguarding Representative",
+        "email": "safeguarding@exampleparish.org"
+      }
+    ],
+    "diocesanOfficeAddress": "Diocesan Offices, 10 Cathedral Street, Sample City, SC1 2AB",
+    "diocesanPhone": "0207 123 4567",
+    "diocesanEmail": "diocese@example.org",
+    "coordinatorName": "Diocesan safeguarding coordinator",
+    "coordinatorPhone": "07111 222333",
+    "coordinatorEmail": "coordinator@example.org",
+    "diocesanUrl": "https://example.org/diocese/safeguarding",
+    "parishPageUrl": "safeguarding.html#local-safeguarding",
+    "bishopStatementUrl": "uploads/documents/placeholder-document.pdf",
+    "domesticAbuseBookletUrl": "uploads/documents/placeholder-document.pdf"
+  }
+}

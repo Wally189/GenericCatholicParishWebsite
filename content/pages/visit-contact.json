@@ -1,0 +1,47 @@
+{
+  "hero": {
+    "image": "/uploads/hero-community.svg",
+    "eyebrow": "Visit / Contact",
+    "title": "Find the church, office, clergy, and giving links",
+    "lede": "This page brings together parish address details, office hours, clergy contact information, and ways to support the mission."
+  },
+  "intro": {
+    "eyebrow": "Getting in touch",
+    "title": "A clear contact page for visitors",
+    "body": "Keep addresses, office hours, phone numbers, and giving links up to date here so people can find the parish easily."
+  },
+  "cards": [
+    {
+      "id": "location-map",
+      "meta": "Location",
+      "title": "Location & Map",
+      "paragraphs": [
+        "You can add a map link, parking details, public transport notes, or access information here."
+      ]
+    },
+    {
+      "id": "office-hours",
+      "meta": "Office Hours",
+      "title": "Parish Office Hours",
+      "paragraphs": [
+        "These hours are pulled from the parish settings so they can be updated in one place."
+      ]
+    },
+    {
+      "id": "contact-details-page",
+      "meta": "Contact Details",
+      "title": "Office and clergy contact",
+      "paragraphs": [
+        "The core office and priest contact details are also pulled from the parish settings."
+      ]
+    },
+    {
+      "id": "donations",
+      "meta": "Support the mission",
+      "title": "Donations",
+      "paragraphs": [
+        "Use this card for the main giving link and any connected charitable projects or outreach funds."
+      ]
+    }
+  ]
+}

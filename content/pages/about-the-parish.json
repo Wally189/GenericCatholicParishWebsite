@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "image": "/uploads/hero-interior.svg",
+    "eyebrow": "About the Parish",
+    "title": "Mission, history, leadership, and safeguarding",
+    "lede": "Use this page to explain the parish mission, its dedication or patron, its history, and key leadership information."
+  },
+  "intro": {
+    "eyebrow": "Parish identity",
+    "title": "A calm, readable overview of the parish",
+    "body": "This page works best when the copy is clear, warm, and concise, with links to any key parish documents.",
+    "image": "/uploads/saint-placeholder.svg",
+    "imageAlt": "Placeholder image for patron saint or parish dedication.",
+    "caption": "Replace with artwork, a statue, stained glass, or another image linked to the parish dedication."
+  },
+  "cards": [
+    {
+      "id": "mission-ethos",
+      "meta": "Mission and Ethos",
+      "title": "A simple statement of parish purpose",
+      "paragraphs": [
+        "Use this card for a short explanation of prayer, sacramental life, welcome, formation, charity, and community service.",
+        "A short mission summary is usually more effective than a long block of text."
+      ]
+    },
+    {
+      "id": "patron-saint",
+      "meta": "Patron Saint / Dedication",
+      "title": "The parish dedication",
+      "paragraphs": [
+        "Replace this text with the story of your patron saint, dedication, or the reason the parish carries its current name.",
+        "This section can also explain any symbols used in the parish visual identity."
+      ]
+    },
+    {
+      "id": "parish-history",
+      "meta": "History",
+      "title": "Parish history",
+      "paragraphs": [
+        "Use this section for the founding of the parish, key dates, school links, parish buildings, or a short timeline."
+      ]
+    },
+    {
+      "id": "parish-leadership",
+      "meta": "Leadership",
+      "title": "Parish leadership",
+      "paragraphs": [
+        "The renderer adds the priest and parish office contact details here automatically from the editable parish settings."
+      ]
+    },
+    {
+      "id": "synod-information",
+      "meta": "Documents",
+      "title": "Synod information and parish papers",
+      "paragraphs": [
+        "Any documents uploaded to the document collection can be surfaced here automatically."
+      ]
+    },
+    {
+      "id": "safeguarding",
+      "meta": "Safeguarding",
+      "title": "Safeguarding links and contacts",
+      "paragraphs": [
+        "This card can reinforce the safeguarding routes and invite people to use the dedicated safeguarding page."
+      ],
+      "links": [
+        {
+          "label": "Open safeguarding page",
+          "url": "safeguarding.html"
+        }
+      ]
+    }
+  ]
+}
